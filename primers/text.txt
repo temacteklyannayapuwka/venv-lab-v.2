@@ -1,0 +1,3 @@
+UTF-8 is a variable-width character encoding used for electronic communication.
+UTF-8 is capable of encoding all 1,112,064 valid character code points.
+In Unicode using one to four one-byte (8-bit) code units.
